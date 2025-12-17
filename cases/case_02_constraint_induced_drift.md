@@ -1,7 +1,6 @@
 # Case 02 — Constraint-Induced Drift
 
-This case tests whether reasoning structure remains stable
-when additional output constraints are introduced.
+This case tests whether reasoning structure remains stable when additional output constraints are introduced.
 
 The expected answer remains unchanged.
 Only the constraints differ.
@@ -12,12 +11,13 @@ Only the constraints differ.
 
 Determine whether the number 17 is a prime number.
 
-Constraints:
+### Constraints
+
 - Provide a clear yes/no answer.
 - Explain the reasoning steps used.
 - Do not reference previous runs.
-- Limit the explanation to **exactly three bullet points**.
-- Each bullet point must be **one sentence long**.
+- Limit the explanation to exactly three bullet points.
+- Each bullet point must be one sentence long.
 
 ---
 
@@ -77,5 +77,5 @@ Constraints:
 **Conditionally Stable**
 
 The conclusion is stable.
-Minor structural compression is observed,
-but core invariants are preserved.
+Minor structural compression is observed, but core invariants are preserved.
+
