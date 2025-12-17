@@ -15,4 +15,4 @@ Each observation records:
 | ID     | Phenomenon                     | Status   | Evidence                         | Notes |
 |--------|--------------------------------|----------|----------------------------------|-------|
 | OBS-01 | Fixed-task structural stability | Stable   | cases/case_01_basic_task.md       | Invariants preserved |
-| OBS-02 | Constraint-induced drift        | Degraded | cases/case_02_constraint_induced_drift.md | Constraint priority shift |
+
