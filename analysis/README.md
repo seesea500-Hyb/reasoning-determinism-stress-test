@@ -18,5 +18,6 @@ Each observation records:
 | OBS-02 | Constraint-induced structural compression | Conditionally Stable | cases/case_02_constraint_induced_drift.md | Bullet constraints compress intermediate structure |
 | OBS-03 | Prompt-induced structural variability | Conditionally Stable | cases/case_03_prompt_induced_ambiguity.md | Ambiguity increases variance without breaking invariants |
 | OBS-04 | Instruction-order sensitivity | Conditionally Stable | cases/case_04_instruction_order_sensitivity.md | Reasoning anchors shift with instruction order |
-| OBS-05 | Context carryover structural compression | Conditionally Stable | cases/case_05_context_carryover.md | Prior context may compress reasoning |
+| OBS-05 | Context carryover influence | Degraded | cases/case_05_context_carryover.md | Prior context alters interpretation despite identical task |
+
 
