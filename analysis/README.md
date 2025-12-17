@@ -15,4 +15,5 @@ Each observation records:
 | ID     | Phenomenon                     | Status   | Evidence                         | Notes |
 |--------|--------------------------------|----------|----------------------------------|-------|
 | OBS-01 | Fixed-task structural stability | Stable   | cases/case_01_basic_task.md       | Invariants preserved |
+| OBS-02 | Constraint-induced structural compression | Conditionally Stable | cases/case_02_constraint_induced_drift.md | Bullet constraints compress intermediate structure |
 
