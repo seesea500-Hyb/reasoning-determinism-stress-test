@@ -1,9 +1,27 @@
 # Evidence Index
 
-This repository is an evidence log for observable stability and drift
-of reasoning under repetition.
+This document provides an entry point for all observable evidence
+contained in this repository.
 
-Start here:
-- PROTOCOL.md — execution protocol
-- cases/ — reproducible test cases
-- analysis/README.md — observation summaries (minimal)
+No interpretation, explanation, or causal attribution is performed here.
+
+## Primary evidence locations
+
+- `cases/`  
+  Reproducible test cases executed under fixed conditions.
+
+- `analysis/README.md`  
+  Recorded observations derived from executed cases.
+
+- `PROTOCOL.md`  
+  Execution protocol governing all tests.
+
+## Reading order (recommended)
+
+1. PROTOCOL.md  
+2. cases/  
+3. analysis/README.md
+
+This structure allows external readers to verify observations
+without prior context or author interaction.
+
